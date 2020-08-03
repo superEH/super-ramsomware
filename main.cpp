@@ -6,7 +6,7 @@
 #endif
 #include "fsociety.h"
 #include "after_day.h"
-// fsociety ransomware by graniet
+
 
 int main(void)
 {
